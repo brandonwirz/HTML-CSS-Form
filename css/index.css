@@ -1,8 +1,6 @@
 *{
-  font-family: Arial, helvetica, sans-serif;
-}
-*{
   box-sizing: border-box;
+  font-family: Arial, helvetica, sans-serif;
 }
 
 .container{
@@ -31,7 +29,7 @@ button.btn-1 {
   width: 0;
   height: 0;
   position: absolute;
-  top: 30zzpx;
+  top: 34px;
   right: 24px;
   border-left: 6px solid transparent;
   border-right: 6px solid transparent;
@@ -39,7 +37,7 @@ button.btn-1 {
 }
 
 .container-pg-bar {
-  margin: 12px auto;
+  margin: 8px auto;
   width: 240px;
   height: 210px;
   position: relative;
@@ -165,7 +163,6 @@ button.btm-btns {
   font-weight: 600;
   border: 1px solid #dddcdc;
   font-size: 12px;
-  /* transition: .3s; */
 }
 
 /* push buttons down */
